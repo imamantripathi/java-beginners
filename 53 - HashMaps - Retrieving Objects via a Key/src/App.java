@@ -6,7 +6,7 @@ public class App {
  
     public static void main(String[] args) {
  
-        HashMap<Integer, String> map = new HashMap<Integer, String>();
+        HashMap<Integer, String> map = new HashMap<Integer, String>();//this is an object of map class 
          
         map.put(5, "Five");
         map.put(8, "Eight");
